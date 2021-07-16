@@ -1,0 +1,2 @@
+# MasterpassManager
+Passwortmanager
